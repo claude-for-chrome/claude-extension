@@ -1,21 +1,22 @@
+# Claude for Chrome (研究预览版) - v1.0.28
+
 [English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
 
-# Claude for Chrome (研究预览版) - 内部解锁版
 
 这是 **Claude for Chrome** 扩展程序的解锁研究预览版。无需Claude账户或加入等候名单，只需输入您自己的API密钥即可立即开始使用。
 
 <p align="center">
-🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome"><b>立即购买</b></a>
+🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank"><b>立即购买</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-🚀&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome"><b>下载</b></a>
+🚀&nbsp;&nbsp;<a href="https://cfc.aroic.workers.dev/download" target="_blank"><b>下载</b></a>
 </p>
 
 <p align="center">
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome">
+  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank">
     <img src="https://img.shields.io/badge/-%E2%9B%92%EF%B8%8F%20Purchase-brightgreen?style=for-the-badge&logo=gumroad" alt="Purchase Now">
   </a>
   &nbsp;&nbsp;
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome">
+  <a href="https://cfc.aroic.workers.dev/download" target="_blank">
     <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Download-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>

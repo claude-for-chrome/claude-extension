@@ -1,21 +1,21 @@
-[English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
+# Claude for Chrome (リサーチプレビュー)
 
-# Claude for Chrome (リサーチプレビュー) - 内部アンロック版
+[English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
 
 これは **Claude for Chrome** 拡張機能のアンロック版リサーチプレビューです。Claudeアカウントや待機リストは不要です。ご自身のAPIキーを入力するだけで、すぐに利用を開始できます。
 
 <p align="center">
-🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome"><b>今すぐ購入</b></a>
+🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank"><b>今すぐ購入</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-🚀&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome"><b>ダウンロード</b></a>
+🚀&nbsp;&nbsp;<a href="https://cfc.aroic.workers.dev/download" target="_blank"><b>ダウンロード</b></a>
 </p>
 
 <p align="center">
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome">
+  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank">
     <img src="https://img.shields.io/badge/-%E2%9B%92%EF%B8%8F%20Purchase-brightgreen?style=for-the-badge&logo=gumroad" alt="Purchase Now">
   </a>
   &nbsp;&nbsp;
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome">
+  <a href="https://cfc.aroic.workers.dev/download" target="_blank">
     <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Download-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
