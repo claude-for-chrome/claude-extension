@@ -1,26 +1,29 @@
-[English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
+# Claude for Chrome (Research Preview) / Invitation Code - v1.0.31 Powered by Sonnet 4.5
 
-# Claude for Chrome (Research Preview) - Internal Unlock Version
+[English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
 
 This is an unlocked research preview of the **Claude for Chrome** extension. No Claude account or waitlist is required. Simply use your own API key to get instant access.
 
 <p align="center">
-🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome"><b>Purchase Now</b></a>
+🛒&nbsp;&nbsp;<a href="https://payhip.com/b/xpZGB" target="_blank"><b>Purchase Now</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-🚀&nbsp;&nbsp;<a href="./claude_1.0.25_0.zip"><b>Download</b></a>
+🚀&nbsp;&nbsp;<a href="https://cfc.aroic.workers.dev/download" target="_blank"><b>Download</b></a>
 </p>
 
 <p align="center">
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome">
+  <a href="https://payhip.com/b/xpZGB" target="_blank">
     <img src="https://img.shields.io/badge/-%E2%9B%92%EF%B8%8F%20Purchase-brightgreen?style=for-the-badge&logo=gumroad" alt="Purchase Now">
   </a>
   &nbsp;&nbsp;
-  <a href="./claude_1.0.25_0.zip">
+  <a href="https://cfc.aroic.workers.dev/download" target="_blank">
     <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Download-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
 
 ![](./assets/options.png)
+![](./assets/features.png)
+
+https://github.com/user-attachments/assets/5fa41682-9960-4b6e-b73d-5958167ac4b2
 
 ## 🚀 Installation Guide
 
