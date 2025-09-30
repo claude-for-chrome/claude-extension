@@ -1,4 +1,4 @@
-# Claude for Chrome (研究预览版) / 邀请码 - v1.0.31
+# Claude for Chrome (研究预览版) / 邀请码 - v1.0.31 (Powered by Sonnet 4.5)
 
 [English](./README.md) | [日本語](./README_ja.md) | [中文](./README_zh.md)
 
