@@ -6,13 +6,13 @@
 这是 **Claude for Chrome** 扩展程序的解锁研究预览版。无需Claude账户或加入等候名单，只需输入您自己的API密钥即可立即开始使用。
 
 <p align="center">
-🛒&nbsp;&nbsp;<a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank"><b>立即购买</b></a>
+🛒&nbsp;&nbsp;<a href="https://payhip.com/b/xpZGB" target="_blank"><b>立即购买</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 🚀&nbsp;&nbsp;<a href="https://cfc.aroic.workers.dev/download" target="_blank"><b>下载</b></a>
 </p>
 
 <p align="center">
-  <a href="https://hybrid44.gumroad.com/l/claude-for-chrome" target="_blank">
+  <a href="https://payhip.com/b/xpZGB" target="_blank">
     <img src="https://img.shields.io/badge/-%E2%9B%92%EF%B8%8F%20Purchase-brightgreen?style=for-the-badge&logo=gumroad" alt="Purchase Now">
   </a>
   &nbsp;&nbsp;
@@ -22,6 +22,9 @@
 </p>
 
 ![](./assets/options.png)
+![](./assets/features.png)
+
+https://github.com/user-attachments/assets/5fa41682-9960-4b6e-b73d-5958167ac4b2
 
 ## 🚀 安装指南
 
